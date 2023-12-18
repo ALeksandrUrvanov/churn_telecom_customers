@@ -12,13 +12,6 @@
 - scipy
 - sklearn
 - matplotlib
-- seaborтn
-- lightgbm
-- xgboost
-- shap
-- math
-- phik
-- torch
 
 ## Отработанные методы и навыки:<br>
 
